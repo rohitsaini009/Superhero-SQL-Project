@@ -1,4 +1,6 @@
-# Superheroes Database Project
+# <center> Superheroes Database Project </center>
+
+<center><img src="https://images.hdqwalls.com/wallpapers/dc-superheroes-ji.jpg" width=700></center>
 
 Title: "Unleashing the Power of SQL: Exploring the World of Superheroes"
 
